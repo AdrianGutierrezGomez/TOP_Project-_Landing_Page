@@ -9,7 +9,7 @@ body{
     justify-content: space-between;
     color:white;
     align-items: center;
-    padding:0 20px;
+    padding:0 80px;
     font-family: Hero, sans-serif;
 }
 .footer{
@@ -39,7 +39,7 @@ a{
 .section-one{
     display: flex;
     background-color: #1F2937;
-    padding: 0 20px;
+    padding: 0 80px;
     color:white;
 }
 h1{
