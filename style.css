@@ -28,7 +28,7 @@ body{
     display: flex;
     list-style: none;
     gap: 10px;
-    font-size:15px;
+    font-size:18px;
 }
 a{
     text-decoration: none;
@@ -48,8 +48,13 @@ a{
 h1{
     font-size: 48px;
     font-weight: 800;
-    /*margin:10px 0 0 0;*/
+    margin:0 0 0 0;
     font-family:Hero,sans-serif;
+}
+.sub-main-title{
+    margin:0 0 0 0;
+    font-size:18px;
+    color:#E5E7EB;
 }
 .sub-section-one{
     display: flex;
