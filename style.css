@@ -131,10 +131,36 @@ margin:0;
 .section-four-background{
     display: flex;
     background-color:#3882F6;
+    border-radius: 6px;
+    border: 2px solid #3882F6;
+    color:white;
+    padding: 20px 80px;
+    justify-content: space-between;
+    margin:0
+}
+.sub-section-four-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section-four-background .sign-up{
+    border: 2px solid white;  
+}
+p{
+   margin:0
+}
+.section-four-title{
+    font-size: 22px;
+    font-weight: 900;
+}
+.section-four-text{
+    font-size: 18px;
+    color: #E5E7EB;
 }
 .sign-up{
  background-color:#3882F6;
  color:white;
  padding:5px 24px;
  border-radius:6px;
+ margin:0;
  }
