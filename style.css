@@ -43,7 +43,6 @@ a{
     display: flex;
     background-color: #1F2937;
     padding: 40px 160px;
-    color:white;
     gap: 20px;
 }
 h1{
@@ -51,6 +50,7 @@ h1{
     font-weight: 800;
     margin:0 0 0 0;
     font-family:Hero,sans-serif;
+    color:#F9FAF8;
 }
 .sub-main-title{
     margin:0 0 0 0;
@@ -66,6 +66,7 @@ h1{
     display: flex;
     flex:1;
     background-color: gray;
+    color:white;
     align-items: center;
     justify-content: center;
 }
