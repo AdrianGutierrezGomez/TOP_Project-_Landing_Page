@@ -78,4 +78,7 @@ h1{
   .section-four{
     padding:0 80px;
   }
-  
+  .section-four-background{
+    display: flex;
+    background-color:#3882F6;
+  }
