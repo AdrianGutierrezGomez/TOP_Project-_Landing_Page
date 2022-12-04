@@ -65,12 +65,17 @@ h1{
 }
 .section-two{
     text-align: center;
-    padding:80px 0;
+    padding:80px 160px;
+}
+h2{
+ font-size: 30px;
+ margin:0 0 80px 0;
 }
 .sub-section-two{
     display: flex;
     justify-content: center;
     gap: 52px;
+    flex-wrap: wrap;
 }
 .info {
     max-width: 200px;
