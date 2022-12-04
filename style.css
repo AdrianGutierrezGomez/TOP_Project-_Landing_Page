@@ -112,3 +112,9 @@ margin:0;
     display: flex;
     background-color:#3882F6;
 }
+.sign-up{
+ background-color:#3882F6;
+ color:white;
+ padding:5px 16px;
+ border-radius:8px;
+ }
