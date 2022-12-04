@@ -70,6 +70,9 @@ h1{
     align-items: center;
     justify-content: center;
 }
+.section-one .sign-up{
+    border: 2px solid #3882F6;
+}
 .section-two{
     text-align: center;
     padding:40px 160px;
@@ -115,6 +118,6 @@ margin:0;
 .sign-up{
  background-color:#3882F6;
  color:white;
- padding:5px 16px;
- border-radius:8px;
+ padding:5px 24px;
+ border-radius:6px;
  }
