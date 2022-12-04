@@ -71,3 +71,7 @@ h1{
 .info {
     max-width: 200px;
   }
+  .section-three{
+    background-color:#E5E7EB;
+    padding:0 80px;
+  }
