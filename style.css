@@ -42,8 +42,9 @@ a{
 .section-one{
     display: flex;
     background-color: #1F2937;
-    padding: 0 160px;
+    padding: 40px 160px;
     color:white;
+    gap: 20px;
 }
 h1{
     font-size: 48px;
@@ -70,7 +71,7 @@ h1{
 }
 .section-two{
     text-align: center;
-    padding:80px 160px;
+    padding:40px 160px;
 }
 h2{
  font-size: 30px;
@@ -87,7 +88,7 @@ h2{
   }
 .section-three{
     background-color:#E5E7EB;
-    padding:80px 160px;
+    padding:40px 160px;
     display: flex;
     flex-direction: column;
 }
@@ -104,7 +105,7 @@ margin:0;
     font-weight: 900;
 }
 .section-four{
-    padding:80px 160px;
+    padding:40px 160px;
 }
 .section-four-background{
     display: flex;
