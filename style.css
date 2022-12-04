@@ -73,14 +73,18 @@ h1{
 .info {
     max-width: 200px;
   }
-  .section-three{
+.section-three{
     background-color:#E5E7EB;
     padding:80px 160px;
-  }
-  .section-four{
+}
+.quote-text{
+font-size: 36px;
+color:#1F2937;
+}
+.section-four{
     padding:80px 160px;
-  }
-  .section-four-background{
+}
+.section-four-background{
     display: flex;
     background-color:#3882F6;
-  }
+}
