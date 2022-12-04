@@ -63,3 +63,11 @@ h1{
 .section-two{
     text-align: center;
 }
+.sub-section-two{
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+.info {
+    max-width: 200px;
+  }
