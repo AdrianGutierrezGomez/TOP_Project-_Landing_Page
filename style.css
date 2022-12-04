@@ -76,10 +76,20 @@ h1{
 .section-three{
     background-color:#E5E7EB;
     padding:80px 160px;
+    display: flex;
+    flex-direction: column;
 }
 .quote-text{
 font-size: 36px;
 color:#1F2937;
+margin:0;
+
+}
+.quote-author{
+    display: flex;
+    justify-content:flex-end;
+    margin:0;
+    font-weight: 900;
 }
 .section-four{
     padding:80px 160px;
